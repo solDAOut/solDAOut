@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @solDAOut
+👋 Hi, I’m @solDAOut
 
 👀 I’m interested in exploring new technologies, building scalable applications, and contributing to open-source projects.
 
